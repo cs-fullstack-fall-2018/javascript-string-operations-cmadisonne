@@ -1,5 +1,7 @@
 # JavaScript-String-Operations-HW
 
+// KEY: Well done! CORRECT!
+
 Look up the follwoing JavaScript String operations. Write in ONE sentence after EACH question about what the function is used for when working Strings in JavaScrpt.
 
 ```
